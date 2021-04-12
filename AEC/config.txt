@@ -1,0 +1,13 @@
+charge=1    		
+T=300	        
+rho_p=1000		
+P=101325 
+alpha_Cc=1.142                                 		
+beta_Cc=0.558                                        
+gamma_Cc=0.999          
+air_molecule_diameter=3.7e-10      
+k=1.3806504e-23                                                                                                              
+e=1.6e-19         
+g=9.81            
+rho_0=1.2   
+rho_in=1.2

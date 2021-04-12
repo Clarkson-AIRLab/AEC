@@ -1,0 +1,9 @@
+U0=10            
+Q=10             
+d0_mm=10           
+SOT=0            
+theta_s=0       
+theta_v=90      
+dout_mm=12
+dbb_mm=500
+L_inlet_mm=20
